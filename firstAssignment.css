@@ -1,0 +1,197 @@
+
+
+.header
+{
+    width: 1320px;
+    height: 600px;
+    padding: 50px 30px;
+   
+}
+
+.headerImage
+{
+    background-image: url("./images/header.jpg");
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    
+}
+
+.newyear
+{
+    color: white;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 32px;
+    font-style: normal;
+    line-height: normal;
+    padding-top: 94px;
+    margin-bottom: -40px;
+}
+
+.newyearparty
+{
+    color: #0072e7;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+}
+
+
+/* Main Section One */
+
+.main  
+{
+    width: 1320px;
+    height: 2600px;
+    padding: 50px 30px;
+    background-color: rgb(148, 130, 130);
+}
+
+/* ONE */
+
+.sectionOne
+{
+    width:95% ;
+    height: 900px;
+}
+
+.off
+{
+    color: #ff0000;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
+    margin-bottom: -141px;
+}
+
+.HolidayDeal
+{
+    color: #ff0000;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.categories
+{
+    color: #070211;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.newyearImage img
+{
+    width: 802px;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    padding: center;
+    padding-top: 48px;
+}
+
+/* Second */
+
+
+.sectionTwo
+{
+    width:100% ;
+    height: 600px;
+    background-image: url("./images/midnight.jpg");
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 50px;
+}
+
+.SecDivOne
+{
+    width: 100%;
+    height: 100%;
+}
+.SecDivTwo
+{
+    width: 40%;
+    height: 100%;
+}
+
+.midnight
+{
+    color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    padding-left: 40px;
+}
+
+.para
+{
+    color: rgba(255, 255, 255, 0.88);
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 32px;
+    text-align: justify;
+    padding-left: 40px;
+    margin-top: -32px;
+}
+
+.joinNow
+{
+    color: white;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 40px;
+    background-color: black;
+}
+
+.joinNow:hover
+{
+    color: white;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 40px;
+    background-color: blue;
+}
+
+.SecDivTwo img
+{
+    width: 320px;
+    height: 465px;
+    margin-top: 68px;
+    padding-left: 40px;
+    margin-right: 56px;
+}
