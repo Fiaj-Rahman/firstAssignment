@@ -436,7 +436,6 @@
 {
     width: 97%;
     height: 240px;
-    background-color: rgb(77, 77, 202);
     margin-top: 147px;
     padding-left: 50px;
 
@@ -473,4 +472,106 @@
     font-weight: 400;
     line-height: 32px;
     width: 700px;
+}
+
+.secSeven
+{
+    width: 97%;
+    height: 240px;
+    margin-top: 30px;
+
+}
+
+.sevenOne
+{
+    display: flex;
+    gap: 20px;
+    height: 400px;
+}
+.sevenTwo
+{
+    display: flex;
+    gap: 20px;
+    height: 400px;
+    margin-top: 70px;
+}
+
+.sevenOne img
+{
+    height: 450px;
+    width: 424px;
+}
+
+.sevenTwo img
+{
+    height: 450px;
+    width: 424px;
+}
+
+.eight
+{
+    width: 97%;
+    height: 600px;
+    margin-top: 750px;
+    background-color: rgb(212, 198, 198);
+}
+
+.eight img
+{
+    width: 150px;
+    height: 150px;
+    margin-left: 590px;
+    margin-top: 62px;
+}
+.eight h2
+{
+    color: black;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 48px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.eight p
+{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: 'Inter', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    width: 801px;
+    margin-left: 235px;
+
+}
+
+.eight button
+{
+    color: white;
+    text-align: center;
+    font-family: 'Inter', serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+    background-color: red;
+    margin-left: 607px;
+    margin-top: 30px;
+    border-radius: 19px;
+    padding: 6px 30px;
+    position: static;
+}
+
+.eight input
+{
+    padding: 10px;
+    margin-left: 403px;
+    margin-top: 30px;
+    position: absolute;
+    width: 208px;
 }
