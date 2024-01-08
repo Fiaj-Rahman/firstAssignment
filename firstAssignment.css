@@ -46,7 +46,7 @@
 .main  
 {
     width: 1320px;
-    height: 6600px;
+    height: 5169px;
     padding: 50px 30px;
     background-color: rgb(148, 130, 130);
 }
@@ -551,7 +551,7 @@
 
 .eight button
 {
-    color: white;
+   color: white;
     text-align: center;
     font-family: 'Inter', serif;
     font-size: 20px;
@@ -563,7 +563,8 @@
     margin-left: 607px;
     margin-top: 30px;
     border-radius: 19px;
-    padding: 6px 30px;
+    padding: 7px 33px;
+    border: none;
     position: static;
 }
 
@@ -574,4 +575,87 @@
     margin-top: 30px;
     position: absolute;
     width: 208px;
+}
+
+/* 
+Footer */
+
+.footer
+{
+    width: 1320px;
+    height: 600px;
+    background-color: #100428;
+}
+
+.footerOne
+{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: justify;
+    flex-shrink: 0;
+    
+
+}
+
+.fOne 
+{
+    padding:120px 0px 0px 140px;
+
+}
+
+.fTwo 
+{
+    padding: 120px 290px 0px 0px;
+}
+
+hr
+{
+    width: 1040px;
+    height: 0px;
+    background-color: white;
+}
+
+
+.footerTwo{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: justify;
+    flex-shrink: 0;
+    gap: 20px;
+}
+
+.footerTwo img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.footerThree{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    text-align: justify;
+    flex-shrink: 0;
+    padding-top: 30px;
+}
+
+
+.reserved p
+{
+    padding-left: 140px;
+
+}
+
+.uns p
+{
+    padding-right: 140px;
 }
